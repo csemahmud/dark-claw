@@ -1,38 +1,42 @@
-# dark-claw
+# Dark Claw
 
-Dark Claw is an original fitness-based cosplay concept created by Khan (カーン), based in Japan.
-This repository contains the source code for the official Dark Claw website—designed for presence, strength, and silence.
+**Dark Claw** is an original, fitness-based cosplay concept created by Khan (カーン), based in Japan.  
+This repository hosts the source code for the official Dark Claw website—crafted to convey presence, strength, and silence.
 
-Built with semantic HTML, modern CSS, and SEO-optimized structured data, the site focuses on clarity, performance, and long-term stability rather than trends or frameworks.
+The site emphasizes semantic HTML, modern CSS, and SEO-optimized structured data, prioritizing clarity, performance, and long-term stability over fleeting trends or frameworks.
+
+---
 
 ## 📸 Preview
 
 ![App Screenshot](images/dark-claw-khan-cosplay-japan.jpg)
 
-## Concept principles:
+---
 
-- Original character (no licensed IP)
+## Concept Principles
 
-- Strength-driven silhouette
+- **Original Character:** Fully original design; no licensed IP.  
+- **Strength-Driven Silhouette:** Visual impact through posture and form.  
+- **Minimal Narrative:** Maximum presence, minimal explanation.  
+- **Experiential Design:** Meant to be felt rather than described.  
 
-- Minimal narrative, maximum presence
-
-- Designed to be felt, not explained
+---
 
 ## Tech Stack
 
-- HTML5 (semantic, accessible)
+- **HTML5:** Semantic and accessible markup.  
+- **CSS3:** Custom dark theme, fully responsive.  
+- **Structured Data:** JSON-LD with Schema.org standards.  
+- **Deployment:** Optimized for GitHub Pages.  
 
-- CSS3 (custom dark theme, responsive)
+---
 
-- Structured Data (JSON-LD, Schema.org)
+## 🌐 Live Site
 
-- Optimized for GitHub Pages
+[https://csemahmud.github.io/dark-claw/](https://csemahmud.github.io/dark-claw/)
 
-## Live Site
+---
 
-👉 https://csemahmud.github.io/dark-claw/
+## ⚠️ Disclaimer
 
-## Disclaimer
-
-Dark Claw is an original cosplay concept and is not affiliated with or endorsed by DC Comics, Marvel, or any other rights holders.
+Dark Claw is an original cosplay concept and is **ot affiliated with or endorsed by DC Comics, Marvel, or any other rights holders**.
