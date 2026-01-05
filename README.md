@@ -39,4 +39,4 @@ The site emphasizes semantic HTML, modern CSS, and SEO-optimized structured data
 
 ## ⚠️ Disclaimer
 
-Dark Claw is an original cosplay concept and is **ot affiliated with or endorsed by DC Comics, Marvel, or any other rights holders**.
+Dark Claw is an original cosplay concept and is **not affiliated with or endorsed by DC Comics, Marvel, or any other rights holders**.
