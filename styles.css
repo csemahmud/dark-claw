@@ -6,7 +6,7 @@
   --card-dark: #1E293B;
 
   --text-light: #E5E7EB;
-  --text-muted: #94A3B8;
+  --text-muted: #9CA3B8;
 
   --accent-blue: #2563EB;
 
@@ -70,6 +70,8 @@ body {
   width: 100%;
   border-radius: 14px;
   margin-top: 16px;
+  display: block;
+  height: auto;
 }
 
 /* ===============================
@@ -102,10 +104,15 @@ body {
   width: 100%;
   border-radius: 14px;
   border: 1px solid var(--border-dark);
+  max-width:100%;
+  height:auto;
+  object-fit:cover;
 }
 
 img {
   image-rendering: auto;
+  max-width:100%;
+  height:auto;
 }
 
 /* ===============================
@@ -147,15 +154,20 @@ img {
   text-decoration: underline;
 }
 
+a:focus-visible {
+    outline:2px solid var(--accent-blue);
+    outline-offset:3px;
+}
+
 .connect {
   margin-top: 2.5rem;
 }
 
-.connect h4 {
+.connect h2 {
   font-size: 1.125rem;
   font-weight: 600;
   margin-bottom: 1rem;
-  color: #e5e7eb; /* light gray */
+  color:var(--text-light); /* light gray */
 }
 
 .connect-list {
@@ -172,7 +184,7 @@ img {
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  color: #9ca3af; /* muted */
+  color:var(--text-muted); /* muted */
   text-decoration: none;
   transition: color 0.2s ease;
 }
@@ -195,4 +207,10 @@ img {
   * {
     transition: none !important;
   }
+}
+
+@media (max-width:600px){
+    .container{
+        padding:16px;
+    }
 }
