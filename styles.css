@@ -397,7 +397,7 @@ a:focus-visible {
   text-decoration: underline;
 }
 
-a:focus-visible {
+.links a:focus-visible {
     outline:2px solid var(--accent-blue);
     outline-offset:3px;
 }

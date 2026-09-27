@@ -9,7 +9,7 @@ The site emphasizes semantic HTML, modern CSS, and SEO-optimized structured data
 
 ## 📸 Preview
 
-![App Screenshot](images/dark-claw-khan-cosplay-japan.jpg)
+![App Screenshot](images/dark-claw-khan-cosplay-japan.png)
 
 ---
 
